@@ -4,7 +4,7 @@ Omnifood is a modern, responsive food website that showcases a healthy meal subs
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://omnifood-tarunchegu.netlify.app/)
+👉 [View Live Site](https://omnifood-tarunc.netlify.app/)
 
 ## 🧰 Tech Stack
 
@@ -33,3 +33,4 @@ To run this project locally:
 ```bash
 git clone https://github.com/Tarun-3695/Omnifood.git
 cd Omnifood
+```
